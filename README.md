@@ -6,9 +6,9 @@ environment, [details here](https://chrisstrelioff.ws/sandbox/2024/04/19/install
 
 ## scripts overview
 
-* ***script01.py*** access the first available camera and open a window to 
+* ***script01*** access the first available camera and open a window to 
   display feed. Hit ___q___ to quit. More information at the 
   [blog post](https://chrisstrelioff.ws/sandbox/2024/04/23/video_capture_using_opencv_python/).
-* ***script02.py*** save the vide feed to an mp4 file on Linux. Again, hit
+* ***script02*** save the vide feed to an mp4 file on Linux. Again, hit
   ___q___ to quit. The related blog post is
   [here](https://chrisstrelioff.ws/sandbox/2024/04/25/save_video_capture_using_opencv_python/).
