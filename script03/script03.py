@@ -23,7 +23,7 @@ import cv2
 # command line argument processing
 #
 import argparse
-parser = argparse.ArgumentParser(prog='./opencv-video-edge-detection.py')
+parser = argparse.ArgumentParser(prog='./script03.py')
 # save a video file?
 parser.add_argument('-s', '--save', help='save a video file', dest='save', action='store_true')
 # assign a file name, default is video.mp4
