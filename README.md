@@ -12,3 +12,5 @@ environment, [details here](https://chrisstrelioff.ws/sandbox/2024/04/19/install
 * ***script02*** save the vide feed to an mp4 file on Linux. Again, hit
   ___q___ to quit. The related blog post is
   [here](https://chrisstrelioff.ws/sandbox/2024/04/25/save_video_capture_using_opencv_python/).
+* ***script03*** add command line arguments and help with ___argparse___ to 
+  make the script(s) more flexible. Hit ___q___ to quit.
